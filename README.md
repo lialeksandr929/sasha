@@ -1,8 +1,9 @@
 # sasha
 # Александр Ли
 # GUI-приложение «Movie Library» для хранения информации о фильмах с фильтрацией, JSON и Git
-
-
+#
+#
+#
 import tkinter as tk
 from tkinter import ttk, messagebox
 import json
